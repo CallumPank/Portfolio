@@ -1,0 +1,18 @@
+body{
+  font: 15px/1.5 serif;
+  padding: 0;
+  margin: 0;
+  background-color: #cfcdd1;
+}
+
+/* Global */
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+/* Header */
+header{
+  background:#828084;
+}
