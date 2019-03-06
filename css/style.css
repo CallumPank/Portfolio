@@ -63,3 +63,26 @@ header a:hover{
 }
 
 /* Showcase */
+#showcase{
+  min-height: 450px;
+  background:url("../Images/Kuthwala.png") no-repeat 0 -190px;
+  text-align: center;
+  color: #000000;
+}
+
+#showcase h1{
+  margin-top: 100px;
+  font-size: 55px;
+  margin-bottom: 10px;
+}
+
+#boxes{
+  margin-top: 20px;
+}
+
+#boxes .box{
+  float: left;
+   width: 30%;
+   padding: 20px;
+   text-align: center;
+}
